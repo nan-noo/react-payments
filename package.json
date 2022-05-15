@@ -24,7 +24,6 @@
     "build-storybook": "build-storybook -s public",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
-    "chromatic": "npx chromatic --project-token=f9334fcf2f0d"
   },
   "eslintConfig": {
     "extends": [
