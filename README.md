@@ -14,10 +14,12 @@
 [요구사항](https://github.com/nan-noo/react-payments/blob/step1/REQUIREMENTS.md)
 
 ## 스토리북 실행 방법
+[배포 페이지](https://step2--6275312e7ae4db004a26523d.chromatic.com/)
 
+local 실행 방법
 ```bash
 
-# 1. package.json에서 @storybook/... 관련 모듈을 지운다.
+# 1. package.json에서 @storybook/... 관련 모듈을 지운다.(2번부터 했을 때, 오류가 나지 않는다면 생략해도 된다.)
 # 2. cra 및 다른 모듈 설치
 npm install
 # 3. 스토리북 설치
